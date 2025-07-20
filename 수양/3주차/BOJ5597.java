@@ -6,6 +6,7 @@ import java.util.StringTokenizer;
 import java.util.*;
 import java.io.*;
 
+// 과제 안 내신 분..?
 // https://www.acmicpc.net/problem/5597
 public class BOJ5597 {
     public static void main(String[] args) throws IOException {
