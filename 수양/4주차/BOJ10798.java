@@ -1,4 +1,3 @@
-
 import java.io.*;
 
 // https://www.acmicpc.net/problem/10798
