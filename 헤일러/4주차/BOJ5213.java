@@ -9,7 +9,9 @@ import java.util.Deque;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+// https://www.acmicpc.net/problem/5213
+// 과외맨
+public class BOJ5213 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
