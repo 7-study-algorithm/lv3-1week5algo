@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+// 수 정렬하기
 // https://www.acmicpc.net/problem/2750
 public class BOJ2750 {
     public static void main(String[] args) throws IOException {

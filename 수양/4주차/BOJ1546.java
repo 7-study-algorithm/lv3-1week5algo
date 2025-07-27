@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+// 평균
 // https://www.acmicpc.net/problem/1546
 public class BOJ1546 {
     public static void main(String[] args) throws IOException {

@@ -1,5 +1,6 @@
 import java.io.*;
 
+// 세로읽기
 // https://www.acmicpc.net/problem/10798
 public class BOJ10798 {
 

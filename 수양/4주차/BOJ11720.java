@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+// 숫자의 합
 // https://www.acmicpc.net/problem/11720
 public class BOJ11720 {
     public static void main(String[] args) {
