@@ -4,7 +4,7 @@ import java.io.*;
 
 // 수들의 합 5
 // https://www.acmicpc.net/problem/2018
-class Main {
+class BOJ2018 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
