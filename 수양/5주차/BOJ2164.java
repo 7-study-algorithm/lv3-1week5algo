@@ -2,9 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-//  카드2
+// 카드2
 // https://www.acmicpc.net/problem/2164
-// deque 정리하기
 class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
