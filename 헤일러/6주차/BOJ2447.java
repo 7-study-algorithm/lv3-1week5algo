@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 // https://www.acmicpc.net/problem/2447
 // 별 찍기 - 10
 // greedy
-public class Main {
+public class BOJ2447 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 // https://www.acmicpc.net/submit/1120
 // 문자열
 // 카테고리: Greedy
-public class Main {
+public class BOJ1120 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
