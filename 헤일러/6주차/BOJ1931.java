@@ -15,7 +15,6 @@ public class BOJ1931 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     static StringTokenizer st;
-    static char[][] board = new char[7000][7000];
 
     public static void main(String[] args) throws IOException {
         int N = Integer.parseInt(br.readLine());
