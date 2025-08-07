@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 
 // https://www.acmicpc.net/problem/10986
 // 나머지 합
+// DP
 public class BOJ10986 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

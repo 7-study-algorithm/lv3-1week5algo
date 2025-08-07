@@ -9,6 +9,7 @@ import java.util.StringTokenizer;
 
 // https://www.acmicpc.net/problem/1931
 // 회의실 배정
+// greedy
 public class BOJ1931 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

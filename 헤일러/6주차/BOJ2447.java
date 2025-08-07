@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 
 // https://www.acmicpc.net/problem/2447
 // 별 찍기 - 10
+// greedy
 public class Main {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
