@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 // https://www.acmicpc.net/problem/2447
 // 별 찍기 - 10
-// greedy
+// 카테고리: 분할 정복
 public class BOJ2447 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
