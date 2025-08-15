@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 // https://www.acmicpc.net/problem/2624
 // 동전 바꿔주기
-public class Main {
+public class BOJ2624 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
