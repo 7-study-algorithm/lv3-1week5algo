@@ -4,7 +4,7 @@ import java.io.*;
 
 //  A+B−C$A + B - C$ 
 // https://www.acmicpc.net/problem/31403
-class Main {
+class BOJ31403 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
